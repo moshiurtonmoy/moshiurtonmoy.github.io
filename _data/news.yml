@@ -1,19 +1,15 @@
 - date: "2025-04-01"
   title: "Dummy Title 🎉"
-  short_description: "Excited to start my journey at hh for graduate studies in AI research."
-  full_description: "dummy full desc"
+  description: "Excited to start my journey at hh for graduate studies in AI research."
   
 - date: "2025-03-29"
   title: "Paper accepted at [Conference Name] 📜"
-  short_description: "Our work on **xx** has been accepted!"
-  full_description: "dummy full desc"
+  description: "Our work on **xx** has been accepted!"
 
 - date: "2025-03-15"
   title: "xxhhn 👀"
-  short_description: "xxx"
-  full_description: "dummy full desc"
+  description: "xxx"
 
 - date: "2025-02-25"
   title: "Paper published in *Agronomy Journal* 📝"
-  short_description: "dsges"
-  full_description: "dummy full desc"
+  description: "dsges"
