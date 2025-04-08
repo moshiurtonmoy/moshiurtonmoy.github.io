@@ -11,3 +11,24 @@
   venue: "Agronomy Journal"
   doi: "https://doi.org/10.1002/agj2.70035"
   pdf: "https://doi.org/10.1002/agj2.70035"
+
+- year: 2025
+  title: "X-Brain: Explainable recognition of brain tumors using robust deep attention CNN"
+  authors: "Moshiur Rahman Tonmoy, Md Atik Shams, Md Akhtaruzzaman Adnan, MF Mridha, Mejdl Safran, Sultan Alfarhood, Dunren Che"
+  venue: "Biomedical Signal Processing and Control"
+  doi: "https://doi.org/10.1016/j.bspc.2024.106988"
+  pdf: "https://doi.org/10.1016/j.bspc.2024.106988"
+
+- year: 2024
+  title: "Descriptor: Multilingual Visual Font Recognition Dataset (MVFR)"
+  authors: "Moshiur Rahman Tonmoy, Md. Akhtaruzzaman Adnan, Aloke Kumar Saha, MF Mridha, Nilanjan Dey"
+  venue: "IEEE Data Descriptions"
+  doi: "https://doi.org/10.1109/IEEEDATA.2024.3460768"
+  pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10680521"
+
+- year: 2024
+  title: "A lightweight visual font style recognition with quantized convolutional autoencoder"
+  authors: "Moshiur Rahman Tonmoy, Abdul Fattah Rakib, Rashik Rahman, Md Akhtaruzzaman Adnan, Muhammad Firoz Mridha, Jie Huang, Jungpil Shin"
+  venue: "IEEE Open Journal of the Computer Society"
+  doi: "https://doi.org/10.1109/OJCS.2024.3378709"
+  pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10475431"
