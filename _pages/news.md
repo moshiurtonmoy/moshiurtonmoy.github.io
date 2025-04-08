@@ -15,7 +15,7 @@ author_profile: true
       {% if item.url %}
         - <a href="{{ item.url }}" target="_blank">[🔗]</a>
       {% endif %}
-      <blockquote class="news-description">{{ item.description }}</blockquote>
+      <blockquote style="margin: 0; padding: 0 0 5px 0;">{{ item.description }}</blockquote>
     </li>
   {% endfor %}
 </ul>
