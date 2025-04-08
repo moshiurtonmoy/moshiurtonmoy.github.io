@@ -9,10 +9,13 @@ author_profile: true
   {% for item in site.data.news %}
     <li class="news-item">
       <b>({{ item.date }})</b> — {{ item.title }} 
-      {% if item.url %}
-        - <a href="{{ item.url }}" target="_blank">[Paper]</a>
+      {% if item.doi %}
+        - <a href="{{ item.doi }}" target="_blank">[Paper]</a>
       {% endif %}
-      <blockquote>{{ item.description }}</blockquote>
+      {% if item.url %}
+        - <a href="{{ item.url }}" target="_blank">[🔗]</a>
+      {% endif %}
+      <blockquote class="news-description">{{ item.description }}</blockquote>
     </li>
   {% endfor %}
 </ul>
