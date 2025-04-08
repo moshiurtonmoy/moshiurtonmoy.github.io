@@ -19,9 +19,9 @@ I am a computer science graduate passionate about deep learning and computer vis
 🔗 [See my publications →](/publications/)
 
 ## 📢 Recent News  
-<ul class="news-container">
+<ul>
   {% for item in site.data.news limit:10 %}
-    <li class="news-item">
+    <li>
       ({{ item.date }}) — {{ item.title }} 
       {% if item.doi %}
         - <a href="{{ item.doi }}" target="_blank">[Paper]</a>
