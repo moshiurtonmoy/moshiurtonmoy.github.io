@@ -18,10 +18,12 @@ I am a computer science graduate, passionate about advancing deep learning and c
 
 📢 Recent News  
 ===
+<div class="news-container">
 {% for item in site.data.news limit:10 %}
-- ({{ item.date }}) **{{ item.title }}**  
+  <div class="news-item"> 📅 <strong>{{ item.date }}</strong> — {{ item.title }} </div>
 {% endfor %}
 
 🔗 [See all updates →](/news/)
+</div>
 
 
