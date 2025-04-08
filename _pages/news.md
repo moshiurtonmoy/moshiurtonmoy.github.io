@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 
-## 📢 Recent News  
----
-
 <ul class="news-container">
 {% for item in site.data.news %}
   <li class="news-item"> <b>({{ item.date }})</b> — {{ item.title }} </li>
