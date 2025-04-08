@@ -1,10 +1,10 @@
 - date: "2025-03-20"
-  title: "New Preprint on arxiv: **MobilePlantViT: A Mobile-friendly Hybrid ViT for Generalized Plant Disease Image Classification**"
+  title: "New Preprint on arxiv: <b>MobilePlantViT: A Mobile-friendly Hybrid ViT for Generalized Plant Disease Image Classification</b>"
   description: "We introduce MobilePlantViT, a lightweight Vision Transformer for plant disease classification, achieving 80%-99% accuracy with just 0.69 million parameters, ideal for mobile and edge device deployment in smart agriculture."
   url: "https://doi.org/10.48550/arXiv.2503.16628"
   
 - date: "2025-03-19"
-  title: "Paper published in Agronomoy Journal: **Attention Mechanism-based Ultralightweight Deep Learning Method for Automated Multi-fruit Disease Recognition System**"
+  title: "Paper published in Agronomoy Journal: <b>Attention Mechanism-based Ultralightweight Deep Learning Method for Automated Multi-fruit Disease Recognition System</b>"
   description: "We propose an ultralightweight deep learning architecture for fruit disease recognition, achieving over 99% accuracy on sugar apple, pomegranate, and guava datasets. Our model integrates advanced techniques to ensure high performance and efficiency, making it ideal for memory-constrained edge devices in smart agriculture."
   url: "https://doi.org/10.1002/agj2.70035"
   
