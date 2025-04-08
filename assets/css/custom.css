@@ -1,35 +1,18 @@
 .news-container {
-  display: flex;
-  flex-direction: column;
-  gap: 5px; /* Reduce spacing between items */
+  list-style-type: none; /* Removes default bullets */
+  padding: 0;
+  margin: 0;
 }
 
 .news-item {
-  background: #f8f9fa; /* Light background for contrast */
-  padding: 5px 10px;
-  border-radius: 5px;
-  display: flex;
-  align-items: center;
-  gap: 10px; /* Spacing between elements */
-  font-size: 14px;
+  margin-bottom: 3px; /* Reduces space between news items */
+  padding: 2px 0; /* Optional: Adjust padding for readability */
 }
 
-.news-date {
+.news-item::before {
+  content: "•"; /* Adds a bullet point */
+  color: #007bff; /* Blue bullet */
   font-weight: bold;
-  color: #007bff;
-}
-
-.news-title {
-  font-weight: 600;
-}
-
-.news-description {
-  color: #555;
-}
-
-@media (max-width: 768px) {
-  .news-item {
-    flex-direction: column;
-    align-items: flex-start;
-  }
+  display: inline-block;
+  width: 12px;
 }
