@@ -17,8 +17,8 @@ I am a computer science graduate, passionate about advancing deep learning and c
 
 ### 📢 Recent News  
 <div class="news-container">
-{% for item in site.data.news limit:10 %}
-  <div class="news-item"> 📅 <strong>{{ item.date }}</strong> — {{ item.title }} </div>
+{% for item in site.data.news limit:5 %}
+  <div class="news-item"> <b>{{ item.date }}</b> — {{ item.title }} </div>
 {% endfor %}
 </div>
 🔗 [See all updates →](/news/)
