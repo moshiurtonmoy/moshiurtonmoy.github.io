@@ -22,10 +22,14 @@ I am a computer science graduate passionate about deep learning and computer vis
 <ul class="news-container">
   {% for item in site.data.news limit:10 %}
     <li class="news-item">
-      <b>({{ item.date }})</b> — {{ item.title }} - {% if item.url %} <a href="{{item.url}}" target="_blank">[Paper]</a>
+      <b>({{ item.date }})</b> — {{ item.title }} 
+      {% if item.url %}
+        - <a href="{{ item.url }}" target="_blank">[Paper]</a>
+      {% endif %}
     </li>
   {% endfor %}
 </ul>
+
 
 🔗 [See all updates →](/news/)
 
