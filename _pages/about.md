@@ -11,7 +11,7 @@ I am a computer science graduate passionate about deep learning and computer vis
 
 ## 💼 Experience
 
-{% for item in site.exp %}
+{% for item in site.data.exp %}
 - **{{ item.title }}**  
   *{{ item.company }}* — {{ item.date }}  
   {{ item.description }}
