@@ -1,20 +1,20 @@
 - year: 2025
   title: "MobilePlantViT: A Mobile-friendly Hybrid ViT for Generalized Plant Disease Image Classification"
-  authors: "Moshiur Rahman Tonmoy, Md. Mithun Hossain, Nilanjan Dey, M. F. Mridha"
+  authors: "Moshiur Rahman Tonmoy, Md. Mithun Hossain, Nilanjan Dey, MF Mridha"
   venue: "arXiv"
   doi: "https://doi.org/10.48550/arXiv.2503.16628"
   pdf: "https://arxiv.org/pdf/2503.16628.pdf"
 
 - year: 2025
   title: "Attention Mechanism-based Ultralightweight Deep Learning Method for Automated Multi-fruit Disease Recognition System"
-  authors: "Moshiur Rahman Tonmoy, Md. Akhtaruzzaman Adnan, Shah Murtaza Rashid Al Masud, Mejdl Safran, Sultan Alfarhood, Jungpil Shin, M. F. Mridha"
+  authors: "Moshiur Rahman Tonmoy, Md. Akhtaruzzaman Adnan, Shah Murtaza Rashid Al Masud, Mejdl Safran, Sultan Alfarhood, Jungpil Shin, MF Mridha"
   venue: "Agronomy Journal"
   doi: "https://doi.org/10.1002/agj2.70035"
   pdf: "https://doi.org/10.1002/agj2.70035"
 
 - year: 2025
   title: "X-Brain: Explainable recognition of brain tumors using robust deep attention CNN"
-  authors: "Moshiur Rahman Tonmoy, Md Atik Shams, Md Akhtaruzzaman Adnan, MF Mridha, Mejdl Safran, Sultan Alfarhood, Dunren Che"
+  authors: "Moshiur Rahman Tonmoy, Md. Atik Shams, Md. Akhtaruzzaman Adnan, MF Mridha, Mejdl Safran, Sultan Alfarhood, Dunren Che"
   venue: "Biomedical Signal Processing and Control"
   doi: "https://doi.org/10.1016/j.bspc.2024.106988"
   pdf: "https://doi.org/10.1016/j.bspc.2024.106988"
@@ -28,7 +28,7 @@
 
 - year: 2024
   title: "A lightweight visual font style recognition with quantized convolutional autoencoder"
-  authors: "Moshiur Rahman Tonmoy, Abdul Fattah Rakib, Rashik Rahman, Md Akhtaruzzaman Adnan, Muhammad Firoz Mridha, Jie Huang, Jungpil Shin"
+  authors: "Moshiur Rahman Tonmoy, Abdul Fattah Rakib, Rashik Rahman, Md. Akhtaruzzaman Adnan, MF Mridha, Jie Huang, Jungpil Shin"
   venue: "IEEE Open Journal of the Computer Society"
   doi: "https://doi.org/10.1109/OJCS.2024.3378709"
   pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10475431"
