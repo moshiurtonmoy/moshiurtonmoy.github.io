@@ -8,15 +8,7 @@ redirect_from:
 ---
 
 I am a computer science graduate passionate about deep learning and computer vision. My work focuses on developing efficient and trustworthy AI models for medical image analysis and smart agriculture, bridging research with real-world impact.
-<!--
-## 💼 Experience
 
-{% for item in site.data.exp %}
-- **{{ item.title }}**  
-  *{{ item.company }}* — {{ item.date }}  
-  {{ item.description }}
-{% endfor %}
--->
 
 ## 🔬 Research Interests
 - Computer Vision
