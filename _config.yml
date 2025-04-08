@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Moshiur Tonmoy - AI Researcher"
+title                    : "Moshiur's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Deep Learning | Computer Vision | Medical Image Analysis | Resonsible and Trustworthy AI"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Moshiur Rahman Tonmoy"
   pronouns         : "he/him"  
-  bio              : "Deep Learning and Computer Vision Research Enthusiast"
+  bio              : "Computer Vision | Medical Image Analysis | Resonsible and Trustworthy AI"
   location         : "Dhaka, Bangladesh"
   employer         : "University of Asia Pacific"
   uri              : # URL
