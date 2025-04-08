@@ -12,7 +12,7 @@ author_profile: true
       {% if item.url %}
         - <a href="{{ item.url }}" target="_blank">[Paper]</a>
       {% endif %}
-      <p>{{ item.description | markdownify }}</p>
+      <blockquote>{{ item.description }}</blockquote>
     </li>
   {% endfor %}
 </ul>
