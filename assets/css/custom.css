@@ -16,3 +16,9 @@
   display: inline-block;
   width: 12px;
 }
+
+.news-description {
+  margin: 0;
+  padding: 0 0 10px 0;
+}
+
