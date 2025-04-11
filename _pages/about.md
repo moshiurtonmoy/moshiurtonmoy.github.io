@@ -37,3 +37,9 @@ I am a computer science graduate passionate about deep learning and computer vis
 🔗 [See all updates →](/news/)
 
 
+## 🎓 Education
+- BSc in Computer Science and Engineering | September 2018 - January 2023  
+  <span style="color:gray;">University of Asia Pacific, Dhaka, Bangladesh</span>
+
+
+
