@@ -1,36 +1,36 @@
 - date: "September 2026"
-  title: "Paper accepted at the 38th International Conference on Tools with Artificial Intelligence (ICTAI 2026): <b>When Does Closed-Loop Curriculum Adaptation Help GRPO? An Analysis on Countdown</b>"
+  title: "Paper accepted at the 38th IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2026): <b>When Does Closed-Loop Curriculum Adaptation Help GRPO? An Analysis on Countdown</b>"
   description: 
   doi: "https://arxiv.org/abs/2610.39056"
-  url: ""
+  url: 
 
 - date: "September 2026"
-  title: "Had <b>2</b> papers accepted in the Data Quality Aware, High-Performance, and Trustworthy AI Systems for Healthcare workshop with the IEEE/ACM CHASE 2026"
+  title: "Had <b>2</b> papers accepted in the International Conference on Electrical and Computer Engineering Researches (ICECER 2026)"
   description: 
-  doi: ""
-  url: ""
+  doi: 
+  url: 
 
 - date: "May 2026"
   title: "Had <b>2</b> papers accepted in the Data Quality Aware, High-Performance, and Trustworthy AI Systems for Healthcare workshop with the IEEE/ACM CHASE 2026"
   description: 
-  doi: ""
-  url: ""
+  doi:
+  url: 
 
 - date: "October 2025"
   title: "Paper published in Computers, Materials & Continua journal: <b>Leveraging Federated Learning for Efficient Privacy-Enhancing Violent Activity Recognition from Videos</b>"
   description: 
   doi: "https://doi.org/10.32604/cmc.2025.067589"
-  url: ""
+  url: 
 
 - date: "March 2025"
   title: "New Preprint on arXiv: <b>MobilePlantViT: A Mobile-friendly Hybrid ViT for Generalized Plant Disease Image Classification</b>"
   description: "We introduce MobilePlantViT, a lightweight Vision Transformer for plant disease classification, achieving 80%-99% accuracy with just 0.69 million parameters, ideal for mobile and edge device deployment in smart agriculture."
   doi: "https://doi.org/10.48550/arXiv.2503.16628"
-  url: ""
+  url: 
   
 - date: "March 2025"
   title: "Paper published in Agronomy Journal: <b>Attention Mechanism-based Ultralightweight Deep Learning Method for Automated Multi-fruit Disease Recognition System</b>"
   description: "We propose an ultralightweight deep learning architecture for fruit disease recognition, achieving over 99% accuracy on sugar apple, pomegranate, and guava datasets. Our model integrates advanced techniques to ensure high performance and efficiency, making it ideal for memory-constrained edge devices in smart agriculture."
   doi: "https://doi.org/10.1002/agj2.70035"
-  url: ""
+  url: 
   
