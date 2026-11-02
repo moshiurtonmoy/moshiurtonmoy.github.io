@@ -41,11 +41,9 @@ How can we build AI systems that do more than recognize patterns—systems that 
 
 
 ## 🎓 Education
-- MS in Computer Science | August 2025 - Present
-  <span style="color:#202021;">Texas A&M University-Kingsville, TX 78363, USA</span>
+- MS in Computer Science | Texas A&M University-Kingsville, TX 78363, USA | August 2025 - Present 
   
-- BSc in Computer Science and Engineering | September 2018 - January 2023  
-  <span style="color:#202021;">University of Asia Pacific, Dhaka, Bangladesh</span>
+- BSc in Computer Science and Engineering | University of Asia Pacific, Dhaka, Bangladesh | September 2018 - January 2023  
 
 
 
