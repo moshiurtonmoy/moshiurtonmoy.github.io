@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Moshiur's Homepage"
+title                    : "Moshi's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Deep Learning | Computer Vision | Medical Image Analysis | Resonsible and Trustworthy AI"
+name                     : &name "Moshiur Tonmoy"
+description              : &description "Computer Vision | Trustworthy AI | Causal AI | Reinforcement Learning | Representation Learning"
 url                      : https://moshiurtonmoy.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "moshiurtonmoy/moshiurtonmoy.github.io"
@@ -26,11 +26,11 @@ author:
   avatar           : "Propic Cropped.jpg"
   name             : "Moshiur Rahman Tonmoy"
   pronouns         : "he/him"  
-  bio              : "Deep Learning and Computer Vision Researcher"
-  location         : "Dhaka, Bangladesh 🇧🇩"
-  employer         : "University of Asia Pacific"
+  bio              : "Graduate Student and Deep Learning Researcher"
+  location         : "Kingsville, TX 78363, USA 🇺🇸"
+  employer         : "Texas A&M University-Kingsville"
   uri              : # URL
-  email            : "moshiurtonmoy.bb@gmail.com" 
+  email            : "moshiur_rahman.tonmoy@students.tamuk.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
