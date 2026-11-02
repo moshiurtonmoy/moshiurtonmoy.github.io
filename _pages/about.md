@@ -7,14 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science graduate passionate about deep learning and computer vision. My work focuses on developing efficient and trustworthy AI models for medical image analysis and smart agriculture, bridging research with real-world impact.
+How can we build AI systems that do more than recognize patterns—systems that can reason, adapt, and earn our trust? This question drives my research at the intersection of causality, interpretability, efficiency, and reasoning. I am particularly interested in developing reliable and resource-efficient AI models that address real-world challenges, bridging foundational research and practical applications to create meaningful societal impact.
 
 
 ## 🔬 Research Interests
-- Computer Vision
-- Responsible and Trustworthy AI
-- Biomedical Image Analysis
-- Efficient AI
+
+- Trustworthy and Interpretable AI
+- Reinforcement Learning
+- Causal AI and Causal Representation Learning
+- Neuro-symbolic AI
+- Deep Learning and Computer Vision
+- AI for Healthcare and Smart Agriculture
 
 🔗 [See my publications →](/publications/)
 
@@ -38,8 +41,11 @@ I am a computer science graduate passionate about deep learning and computer vis
 
 
 ## 🎓 Education
+- MS in Computer Science | August 2025 - Present
+  <span style="color:#202021;">Texas A&M University-Kingsville, TX 78363, USA</span>
+  
 - BSc in Computer Science and Engineering | September 2018 - January 2023  
-  <span style="color:gray;">University of Asia Pacific, Dhaka, Bangladesh</span>
+  <span style="color:#202021;">University of Asia Pacific, Dhaka, Bangladesh</span>
 
 
 
